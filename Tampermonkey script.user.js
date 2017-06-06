@@ -53,7 +53,7 @@
             } else {
                 // Is no gif
                 var suffix = '-png.jpg';
-                var prefix = 'https://thumb.gyazo.com/thumb/_';
+                var prefix = 'https://thumb.gyazo.com/thumb/1920_w/_';
             }
 
             // Check if gif or no
